@@ -1,5 +1,8 @@
 import React, { Component } from "react";
-import { dijkstra, getNodesInShortestPathOrder } from "../Algorithms/Dijkstra";
+import {
+  dijkstra,
+  getNodesInShortestPathOrder,
+} from "../Algorithms/Dijkstra.ts";
 import Node from "./Node/Node";
 import "./AlgoVisualizer.css";
 
