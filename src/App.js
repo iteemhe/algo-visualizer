@@ -1,6 +1,6 @@
-import logo from "./logo.svg";
 import "./App.css";
 import AlgoVisualizer from "./AlgoVisualizer/AlgoVisualizer";
+import "./AlgoVisualizer/AlgoVisualizer.css";
 
 function App() {
   return (
